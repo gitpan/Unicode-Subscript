@@ -22,4 +22,7 @@ requires:
   strict: 0
   utf8: 0
   warnings: 0
-version: 0.1
+resources:
+  bugtracker: https://github.com/richardjharris/Unicode-Subscript/issues
+  repository: git://github.com/richardjharris/Unicode-Subscript.git
+version: 0.2
