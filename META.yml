@@ -26,4 +26,4 @@ resources:
   bugtracker: https://github.com/richardjharris/Unicode-Subscript/issues
   homepage: http://metacpan.org/release/Unicode-Subscript/
   repository: git://github.com/richardjharris/Unicode-Subscript.git
-version: 0.3
+version: 0.4
